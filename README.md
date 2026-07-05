@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/21789384/README.md)
+# 智联AI助手（AI-assistant）
 ## 概述
 ·高质量GUI Grounding：通过在大规模中英文Android数据集上进行预训练，有效提升了对常见GUI控件（如按钮、输入框、标签、图标等）的定位与理解能力；
 
